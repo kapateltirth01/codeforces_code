@@ -29,7 +29,8 @@ input
 X++
 --X
 output
-0 */
+0 
+*/
 #include <stdio.h>
  
 int main() {
