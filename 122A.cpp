@@ -9,21 +9,20 @@ Output
 In the only line print "YES" (without the quotes), if number n is almost lucky. Otherwise, print "NO" (without the quotes).
 
 Examples
-inputCopy
+input
 47
-outputCopy
+output
 YES
-inputCopy
+input
 16
-outputCopy
+output
 YES
-inputCopy
+input
 78
-outputCopy
+output
 NO
 Note
 Note that all lucky numbers are almost lucky as any number is evenly divisible by itself.
-
 In the first sample 47 is a lucky number. In the second sample 16 is divisible by 4. 
 */
 #include<stdio.h>
